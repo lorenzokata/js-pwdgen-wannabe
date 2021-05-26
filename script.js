@@ -9,4 +9,6 @@ cognome = prompt('Inserirci il tuo cognome');
 
 colore = prompt('Inserisci il tuo colore preferito');
 
-alert(nome+cognome+colore+'21');
+password = nome+cognome+colore+'21';
+
+alert(password);
