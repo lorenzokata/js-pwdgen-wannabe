@@ -11,4 +11,4 @@ colore = prompt('Inserisci il tuo colore preferito');
 
 password = nome+cognome+colore+'21';
 
-alert(password);
+document.getElementById('password').innerHTML = password;
